@@ -1,0 +1,6 @@
+twitter-to-kafka-service:
+  twitter-keywords:
+    - Narendra Modi
+    - Peaky Blinders
+    - India
+  welcome-message: Hello microservices!
